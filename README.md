@@ -64,9 +64,9 @@ pip install -r requirements.txt
 TELEGRAM_TOKEN=your_telegram_token
 GEMINI_API_KEY=your_gemini_api_key
 ```
-https://t.me/BotFather
-https://aistudio.google.com/app/apikey
-رابط استضافة : https://replit.com/
+- https://t.me/BotFather
+- https://aistudio.google.com/app/apikey
+- رابط استضافة : https://replit.com/
 5. تشغيل البوت:
 ```bash
 python main.py
@@ -142,11 +142,11 @@ project/
 ---
 صنع بـ ❤️ للمجتمع العربي
 
-ذكاء اصطناعي العرب ⚡️
-https://t.me/AI4Arabs
-الجروب الخاص بالقناة 
-المنتدى التفاعلي - AI4Arabs. ☝️
-https://t.me/AI_FOR_ARAB
-مجموعة : 
-مجتمع رواد الذكاء الاصطناعي🤩
-https://t.me/Shawxvip2
+- ذكاء اصطناعي العرب ⚡️
+- https://t.me/AI4Arabs
+- الجروب الخاص بالقناة  
+- المنتدى التفاعلي - AI4Arabs. ☝️
+- https://t.me/AI_FOR_ARAB
+- مجموعة : 
+- مجتمع رواد الذكاء الاصطناعي🤩
+- https://t.me/Shawxvip2
