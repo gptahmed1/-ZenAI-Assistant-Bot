@@ -1,4 +1,3 @@
-# -ZenAI-Assistant-Bot
 # 🤖 ZenAI Assistant Bot
 
 <div align="center">
